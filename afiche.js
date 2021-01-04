@@ -10,14 +10,14 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/el seilencio de los inocentes animado_atlas_.png?1491854856820", id:"el seilencio de los inocentes animado_atlas_"}
+		{src:"images/afiche_atlas_.png?1491854856820", id:"afiche_atlas_"}
 	]
 };
 
 
 
 lib.ssMetadata = [
-		{name:"el seilencio de los inocentes animado_atlas_", frames: [[171,1502,264,196],[0,1502,169,328],[437,1502,528,91],[0,0,1009,1500],[967,1502,258,185],[1011,0,1009,1500],[437,1595,64,26],[503,1595,62,25]]}
+		{name:"afiche_atlas_", frames: [[171,1502,264,196],[0,1502,169,328],[437,1502,528,91],[0,0,1009,1500],[967,1502,258,185],[1011,0,1009,1500],[437,1595,64,26],[503,1595,62,25]]}
 ];
 
 
@@ -26,56 +26,56 @@ lib.ssMetadata = [
 
 
 (lib.Mapadebits1 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits11 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits12 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits14 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits5 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits7 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits8 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Mapadebits9 = function() {
-	this.spriteSheet = ss["el seilencio de los inocentes animado_atlas_"];
+	this.spriteSheet = ss["afiche_atlas_"];
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -360,7 +360,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,264,196);
 
 
 
-(lib.elseilenciodelosinocentesanimado = function(mode,startPosition,loop) {
+(lib.afiche = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// antenas
