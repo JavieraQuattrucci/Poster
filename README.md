@@ -2,7 +2,7 @@
 Animated Poster with Adobe Animate (HTML Canvas) / Afiche animado! 
 
 <p align="center">
-<img src="public/img/pantallazo01.jpg" width="1000" alt="Inicio">
+<img src="images/pantallazo01.jpg" width="1000" alt="Inicio">
 </p>
 
 ---
